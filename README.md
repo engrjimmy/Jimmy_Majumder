@@ -16,7 +16,7 @@ Currently, I am working as a Robotics Engineer. I am a roboticist, entrepreneur 
 Here are some ideas to get you started:
  Acting as the founder of Bangladesh Advance Robotics Research Center(BARRC), and working as a robotics engineer at QibiTech. 
 
-- 🔭 Currently, I am a Robotics Engineer at QibiTech, Japan
+- 🔭 Currently, I am a Robotics Engineer at QibiTech Inc.,, Japan
 - 🌱 I have completed M.Sc in Robotic from Kyushu Institute of Technology (Kyutech), Japan.
 - 👯 I am looking to collaborate on Robotics, AI, ML, DL, and computer vision. 
 - 💬 Ask me about research paper.
