@@ -37,8 +37,8 @@ Here are some ideas to get you started:
     
 ## 🌐 Social Link:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-majumder) 
- [![GitHub Followers](https://img.shields.io/github/followers/Sujan-Roy?style=social)]([/github/followers/:user?label=Follow](https://github.com/engrjimmy?tab=followers))
- [![GitHub Followers](https://img.shields.io/github/watchers/Sujan-Roy/Sujan-Roy?style=social)]([/github/followers/:user?label=Follow](https://github.com/engrjimmy/engrjimmy))
+ [![GitHub Followers](https://img.shields.io/github/followers/engrjimmy?style=social)]([/github/followers/:user?label=Follow](https://github.com/engrjimmy?tab=followers))
+ [![GitHub Followers](https://img.shields.io/github/watchers/engrjimmy/engrjimmy?style=social)]([/github/followers/:user?label=Follow](https://github.com/engrjimmy/engrjimmy))
  
  ![](https://komarev.com/ghpvc/?username=engrjimmy&color=dc143c)
 
