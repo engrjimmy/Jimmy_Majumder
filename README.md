@@ -6,8 +6,8 @@
 
 
 
-<p align="center"> <a href="https://scholar.google.com/citations?user=JORIB_EAAAAJ&hl=en" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="https://www.linkedin.com/in/sujan-chandra-roy-381131109/}" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
-
+<p align="center"> <a href="https://sites.google.com/view/jimmy-majumder/" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="https://www.linkedin.com/in/jimmy-majumder/}" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
+#https://scholar.google.com/citations?user=JORIB_EAAAAJ&hl=en 
 # Description
 Currently, I am working as a Robotics Engineer. I am a roboticist, entrepreneur and researcher. My research interests are Human Intelligence Systems (HIS), Robotics, Mechatronics, Computing AI. 
 
