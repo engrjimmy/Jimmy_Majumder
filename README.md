@@ -10,17 +10,17 @@
 
 
 # Description
-I am an Ex-NASA researcher as well a roboticist, entrepreneur and researcher. Currently, I am working as a Robotics Engineer in Japan. My research interests are Human Intelligence Systems (HIS), Robotics, Mechatronics, Computer Vision and AI. 
+I am a former NASA researcher with a diverse and dynamic career as a roboticist, researcher, and entrepreneur. Currently, I am advancing the frontier of robotics as a Robotics Engineer at QibiTech Inc. in Tokyo, Japan. My research interests span cutting-edge fields including Human Intelligence Systems (HIS), Robotics, Mechatronics, Computer Vision, and Artificial Intelligence (AI). 
 
 
 # Features
 Here are some ideas to get you started:
-I have been running several startups in Bangladesh since I Found Bangladesh Advance Robotics Research Center(BARRC) in 2014.
 
-- 🔭 Currently, I am a Robotics Engineer at QibiTech Inc.,, Japan
-- 🌱 I have completed M.Sc in Robotic from Kyushu Institute of Technology (Kyutech), Japan.
-- 👯 I am looking to collaborate on Robotics, AI, ML, DL, and Computer vision. 
-- 💬 Let's talk about Robotics, Research, Innovation and Business.
+- 🔭 Current Role: Robotics Engineer at QibiTech Inc., Tokyo, Japan
+- 🌱 Education: M.Sc in Robotics from Kyushu Institute of Technology (Kyutech), Japan
+- 🚀 Entrepreneurship: Founder of the Bangladesh Advance Robotics Research Center (BARRC) in 2014, and have been running several startups in Bangladesh
+- 👯 Collaboration: Open to collaborating on projects related to Robotics, AI, ML, DL, and Computer Vision
+- 💬 Interests: Let's talk about Robotics, Research, Innovation, and Business
 - 📫 How to reach me: [LinkedIn](https://sites.google.com/view/jimmy-majumder/) 
 
 
